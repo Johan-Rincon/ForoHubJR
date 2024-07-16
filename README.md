@@ -12,11 +12,11 @@ Algunas de las funciones son crear, editar, listar y eliminar tanto usuarios com
 
 🌟 DEPENDENCIAS UTILIZADAS 🌟
 
-Spring web
-Spring Security
-Spring Validation
-Spring data Jpa
-Flayway
-MySql
-Devtools
-Lombok
+- Spring web
+- Spring Security
+- Spring Validation
+- Spring data Jpa
+- Flyway
+- MySql
+- Devtools
+- Lombok
